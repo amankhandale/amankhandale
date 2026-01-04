@@ -20,19 +20,3 @@
 
 ---
 
-###  Featured Learning Repository
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/amankhandale/Data-Analyst-Bootcamp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amankhandale&repo=Data-Analyst-Bootcamp&theme=dark&bg_color=0d1117&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/amankhandale/MySQL_Practice">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amankhandale&repo=MySQL_Practice&theme=dark&bg_color=0d1117&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
