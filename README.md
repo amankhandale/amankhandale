@@ -1,9 +1,9 @@
 <p align="middle">
-  <a href="https://linkedin.com/in/aman-khandale-172559204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/amankpng"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/amankhandale"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-  <a href="https://instagram.com/amankpng"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:amankhandale75@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aman-khandale-172559204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />,</a>
+  <a href="https://x.com/amankpng"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />,</a>
+  <a href="https://www.hackerrank.com/profile/amankhandale"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />,</a>
+  <a href="https://instagram.com/amankpng"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />,</a>
+  <a href="mailto:amankhandale75@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />,</a>
 </p>
 
 ---
